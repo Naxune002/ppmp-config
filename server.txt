@@ -1,4 +1,4 @@
 # PPMP server settings. Lines starting with # are ignored.
-relay=impairment-sanitary.tun.ply.gg:27859
+relay=107.170.61.202:7777
 minVersion=0.7.0
 message=Public beta! Report bugs on the mod page.
