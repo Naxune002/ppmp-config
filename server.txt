@@ -1,4 +1,4 @@
 # PPMP server settings. Lines starting with # are ignored.
 relay=107.170.61.202:7777
-minVersion=0.9.2
+minVersion=0.9.4
 message=Public beta! Report bugs on the mod page.
